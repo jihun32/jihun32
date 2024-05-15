@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=ADD8FD&height=300&section=header&text=Jihun's%20Github&fontSize=90&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=soft&color=ADD8FD&height=300&section=header&text=Jihun's%20Github&fontSize=90&fontColor=ffffff&animation=twinkling)
 
 # 성장에 진심인 iOS 개발자입니다.🐣
 
