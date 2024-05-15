@@ -3,7 +3,11 @@
 # 성장에 진심인 iOS 개발자입니다.🐣
 
 ### 🛠 Tech Stack
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white) ![RxSwift](https://img.shields.io/badge/RxSwift-B7178C?style=flat&logo=reactivex&logoColor=white) ![Combine](https://img.shields.io/badge/Combine-5AC8FA?style=flat&logo=apple&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white) ![RxSwift](https://img.shields.io/badge/RxSwift-B7178C?style=flat&logo=reactivex&logoColor=white) ![Combine](https://img.shields.io/badge/Combine-5AC8FA?style=flat&logo=apple&logoColor=white) ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=uikit&logoColor=white)
+
+### 📚 Education
+
+- 인천대학교 컴퓨터공학과 졸업 (2018.03 ~ 2024.02)
 
 ### 📚 Education
 - 인천대학교 컴퓨터공학과 졸업 (2018.03 ~ 2024.02)
