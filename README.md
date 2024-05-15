@@ -22,5 +22,3 @@
 <p>
   <a href="https://home.inuappcenter.kr/">인천대학교 정보전산원(앱센터 iOS파트)</a> (2022.09 ~ 2023.06)
 </p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=jihun32&show_icons=true&theme=radical">
