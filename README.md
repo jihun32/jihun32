@@ -10,6 +10,7 @@
 
 ### 🧑🏻‍💻 Activities
 - [인천대학교 정보전산원 소속 앱센터](https://home.inuappcenter.kr/) (2022.09 ~ 2023.06)
+- [let us Go! 2024 찍먹톤](https://letusgo2024-summer.vercel.app/) 최우수상 수상
 
 ### 📂 Projects
 - [향모아](https://github.com/HMOAA/HMOA_iOS)
